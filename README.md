@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">:Gestão Tecnologia da Informação  em curso | Protocolos | Redes | Cibersegurança | Java | Python  | Modelagem de Software<br><br>:Profissional da Área de Engenharia - Gestão da Qualidade de Sistemas e Processos Industriais | Auditor ISO 9001/2 | AVSQ’94 | Eng. de Desenvolvimento de Novos Produtos | Especializado em Manufatura Enxuta | Redução de Custos Lean Manufacturing | Especialista em Metodologias aplicadas  PDCA | FMEA</p>
+<p align="left">:Gestão Tecnologia da Informação  em curso | Protocolos | Redes | Cibersegurança | Java | Python  | Modelagem de Software<br><br>: Profissional da Área de Engenharia - Gestão da Qualidade de Sistemas e Processos Industriais | Auditor ISO 9001/2 | AVSQ’94 | Eng. de Desenvolvimento de Novos Produtos | Especializado em Manufatura Enxuta | Redução de Custos Lean Manufacturing | Especialista em Metodologias aplicadas  PDCA | FMEA</p>
 
 ###
 
@@ -33,6 +33,18 @@
 ###
 
 <h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/miguel-t-cruz-95191b87/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
 
 ###
 
