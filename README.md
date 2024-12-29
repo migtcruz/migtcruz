@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">STATS</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
