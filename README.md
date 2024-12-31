@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Habilities</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -57,5 +57,13 @@
 </div>
 
 ###
-
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/migtcruz/count.svg" alt="" /></td>
+  </tr>
+</table>
+</div>
 
