@@ -9,7 +9,7 @@
 ###
 <h2 align="left">About Me</h2>
 
-<p align="left">Gestão Tecnologia da Informação  em curso | Protocolos | Redes | Cibersegurança | Java | Python  | Modelagem de Software<br><br>Profissional da Área de Engenharia - Gestão da Qualidade de Sistemas e Processos Industriais | Auditor ISO 9001/2 | AVSQ’94 | Eng. de Desenvolvimento de Novos Produtos | Especializado em Manufatura Enxuta | Redução de Custos Lean Manufacturing | Especialista em Metodologias aplicadas  PDCA | FMEA</p>
+<p align="left"...</p>
 
 ###
 <h2 align="left">Stats</h2>
