@@ -6,11 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72F11&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome+to+my+GitHub+!!)](https://git.io/typing-svg)
 </div>
 
-###
-<h2 align="left">About Me</h2>
-
+<!-- Início da seção Sobre Mim -->
+### <h2 align="left">About Me</h2>
 <p align="left"...</p>
-
+<!-- Fim da seção Sobre Mim -->
+  
 ###
 <h2 align="left">Stats</h2>
 
