@@ -1,25 +1,28 @@
+<!-- Início da seção Banner -->
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/69974d4b-7474-42fa-a009-15ae92d5c5ae"/>
 <br>
+<!-- Fim da seção Banner -->
 
-<!-- Início da seção Sobre Mim -->
+<!-- Início da seção Welcome -->
 <div align="left">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72F11&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome+to+my+GitHub+!!)](https://git.io/typing-svg)
 </div>
-<!-- Fim da seção Sobre Mim -->
-
-<!-- Início da seção Sobre Mim -->
-### <h2 align="left">About Me</h2>
-<p align="left"...</p>
-<!-- Fim da seção Sobre Mim -->
+<!-- Fim da seção Welcome -->
 
 <!-- Início da seção Sobre Mim -->
 ###
-<h2 align="left">Stats</h2>
+<h2 align="left">About Me</h2>
+<p align="left"...</p>
 <!-- Fim da seção Sobre Mim -->
 
+<!-- Início da seção Status -->
+###
+<h2 align="left">Stats</h2>
+<!-- Fim da seção Status -->
 
-<!-- Início da seção Sobre Mim -->
+
+<!-- Início da seção Skills -->
 ###
 <h2 align="left">Skills</h2>
 
@@ -30,18 +33,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-<!-- Fim da seção Sobre Mim -->
+<!-- Fim da seção Skills -->
 
-<!-- Início da seção Sobre Mim -->
-##
+<!-- Início da seção Contacts -->
+
 <h2 align="left">Contacts</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-t-cruz-95191b87/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
-<!-- Fim da seção Sobre Mim -->
+<!-- Fim da seção Contacts -->
 
-<!-- Início da seção Sobre Mim -->
+<!-- Início da seção Visitor -->
 <br>
 <div align="center">
   
@@ -52,7 +55,7 @@
   </tr>
 </table>
 </div>
-<!-- Fim da seção Sobre Mim -->
+<!-- Fim da seção Visitor -->
 
 <!-- Início da seção Sobre Mim -->
 <div align="center">
