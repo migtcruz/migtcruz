@@ -22,10 +22,7 @@
 <!-- Início da seção Sobre Mim -->
 ###
 <h2 align="left">Skills</h2>
-<!-- Fim da seção Sobre Mim -->
 
-
-<!-- Início da seção Sobre Mim -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
