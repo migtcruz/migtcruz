@@ -36,7 +36,6 @@
 <!-- Fim da seção Skills -->
 
 <!-- Início da seção Contacts -->
-
 <h2 align="left">Contacts</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-t-cruz-95191b87/" target="_blank">
@@ -57,7 +56,7 @@
 </div>
 <!-- Fim da seção Visitor -->
 
-<!-- Início da seção Sobre Mim -->
+<!-- Início da seção Cobrinha -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
@@ -66,5 +65,5 @@
 </picture>
 <br><br>
 </div>
-<!-- Fim da seção Sobre Mim -->
+<!-- Fim da seção Cobrinha -->
 
