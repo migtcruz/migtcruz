@@ -1,10 +1,12 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/69974d4b-7474-42fa-a009-15ae92d5c5ae"/>
 <br>
 
+<!-- Início da seção Sobre Mim -->
 <div align="left">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72F11&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome+to+my+GitHub+!!)](https://git.io/typing-svg)
 </div>
+<!-- Fim da seção Sobre Mim -->
 
 <!-- Início da seção Sobre Mim -->
 ### <h2 align="left">About Me</h2>
@@ -18,7 +20,9 @@
 
 
 <!-- Início da seção Sobre Mim -->
+###
 <h2 align="left">Skills</h2>
+<!-- Fim da seção Sobre Mim -->
 
 
 <!-- Início da seção Sobre Mim -->
@@ -41,7 +45,6 @@
 <!-- Fim da seção Sobre Mim -->
 
 <!-- Início da seção Sobre Mim -->
-
 <br>
 <div align="center">
   
@@ -55,7 +58,6 @@
 <!-- Fim da seção Sobre Mim -->
 
 <!-- Início da seção Sobre Mim -->
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
