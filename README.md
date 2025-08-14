@@ -48,7 +48,7 @@
 <!-- Início da seção Contacts -->
 <h2 align="left">Contacts</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/miguel-t-cruz-95191b87/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguelhcruz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 <!-- Fim da seção Contacts -->
