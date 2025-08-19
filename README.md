@@ -17,7 +17,6 @@
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/21552150-3674-41c9-91fd-ff14567fd85e" />
 </div>
 
-<p><img data-recalc-dims="1" decoding="async" class="aligncenter lazy loaded" title="How PHP Web Shell Exploits Are Used By Attackers?" src="https://i0.wp.com/secure.wphackedhelp.com/blog/wp-content/uploads/2018/04/door.gif?resize=466%2C349&amp;ssl=1" data-src="https://i0.wp.com/secure.wphackedhelp.com/blog/wp-content/uploads/2018/04/door.gif?resize=466%2C349&amp;ssl=1" alt="How PHP Web Shell Exploits Are Used By Attackers?" width="466" height="349" data-was-processed="true"></p>
 
 
 
